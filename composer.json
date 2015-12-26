@@ -1,7 +1,8 @@
 {
     "name": "rtutin/chaos.fm",
     "require": {
-        "zelenin/rss-generator": "^2.1"
+        "zelenin/rss-generator": "^2.1",
+        "doctrine/orm": "^2.5"
     },
     "authors": [
         {
