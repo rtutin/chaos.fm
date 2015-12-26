@@ -556,14 +556,6 @@ sub post_stuff($$$$$$$$$$$$$$)
 	$sth->execute($parent,$time,$lasthit,$numip,
 	$date,$name,$trip,$email,$subject,$password,$comment,
 	$filename,$size,$md5,$width,$height,$thumbnail,$tn_width,$tn_height) or make_error(S_SQLFAIL);
-	
-	#
-	# regenerate feed
-	#
-	`/usr/bin/php feed.php`;
-	#
-	#
-	#
 
 	if($parent) # bumping
 	{
