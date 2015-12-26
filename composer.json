@@ -1,0 +1,12 @@
+{
+    "name": "rtutin/chaos.fm",
+    "require": {
+        "zelenin/rss-generator": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Lev Rtutin",
+            "email": "lev@rtutin.ru"
+        }
+    ]
+}
