@@ -1,0 +1,4 @@
+DirectoryIndex wakaba.pl
+AddCharset UTF-8 .html
+Options +ExecCGI
+AddHandler cgi-script .pl
