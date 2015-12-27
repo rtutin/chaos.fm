@@ -1,0 +1,200 @@
+html, body {
+  font-size:10pt;
+  background:#000505;
+  color:#00CCCC;
+}
+* {
+  font-family: terminus, Arial, sans-serif;
+  font-size: 10pt;
+}
+
+hr {
+	clear: both;
+	border-style: dotted none none none;
+	border-width: 1px;
+	border-color: #00AAAA;
+	width: 96%;
+	}
+
+input, textarea {
+  background-color: #000505;
+  border: 1px dotted #00AAAA;
+  color: #00CCCC;
+}
+
+a {
+  background:inherit;
+  color:#CC0000;
+}
+a:visited {
+  background:inherit;
+  color:#FF0000;
+}
+a:hover {
+  color:#000000;
+  background:#FF0000;
+}
+a.quotelink {
+  background:inherit;
+  color:#CC0000;
+}
+.logo {
+   padding: 0px 8px 5px 30px;
+float: left;
+  text-align:left;
+  font-size:24pt;
+  color:#FF0000;
+  width:10%;
+}
+
+.postarea {
+  background:inherit;
+margin: 0 auto;
+}
+
+
+.top_hr {
+  clear:both;
+  background:inherit;
+}
+
+em {
+text-decoration: underline;
+}
+
+.postblock {
+  background: #001010;
+  border: 1px dotted #00AAAA;
+  color: #00CCCC;
+  font-weight: bold;
+  padding: 2px 5px 2px 5px;
+}
+
+.rules {
+margin: 0px 0px 0px 25px;
+}
+
+.footer {
+  text-align:center;
+  font-size:12px;
+}
+.unkfunc {
+	background:inherit;
+	color:#FF0000;
+}
+.filesize {
+	text-decoration:none;
+}
+.filetitle {
+	background:inherit;
+	color:#FF0000;
+	font-weight:800;
+}
+.postername {
+  background:inherit;
+  color:#FF0000;
+  font-weight: bold;
+}
+.postertrip {
+	background:inherit;
+	color:#FF0000;
+}
+.oldpost {
+  background:inherit;
+  color:#00CCCC;
+  font-weight:800;
+}
+.omittedposts {
+  background:inherit;
+  color:#00CCCC;
+}
+.reply {
+	background:#001010;
+	color:#00CCCC;
+	border:1px dotted #00AAAA;
+}
+.replyhl {
+	background:#004040;
+	color:#FF0000;
+}
+.doubledash {
+ 	vertical-align:top;
+	clear:both;
+	float:left;
+}
+.replytitle {
+	background:inherit;
+	font-size:10px;
+  color:#00CCCC;
+  font-weight:800;
+}
+.commentpostername {
+  background:inherit;
+  font-size:10pt;
+  color:#FF0000;
+  font-weight: bold;
+}
+a.quotejs {
+  color:#FF0000;
+	text-decoration: none;
+}
+a.quotejs:hover {
+  font-weight:bold;
+}
+
+.highlight {
+	background:#003030;
+	color:#00FFFF;
+	border: 2px dashed #FF0000;
+}
+
+
+.adminbar {
+ 
+ padding: 13px 30px 13px 8px;
+ 
+  text-align: right;
+  float: right;
+}
+
+.theader, .passvalid {
+	width: 300px;
+	background:#002020;
+	text-align:center;
+	padding:3px;
+	font-size: 20px;
+	color:#FF0000;
+	clear: both;
+	font-weight: bold;
+	margin: 0 auto;
+	margin-bottom: 8px;
+	border: dotted 1px #00CCCC;
+	}
+
+.spoiler {
+	background: #00CCCC !important;
+	color: #00CCCC !important;
+}
+
+.spoiler blockquote {
+	background: #00CCCC !important;
+	color: #00CCCC !important;
+}
+
+.spoiler:hover {
+	background: #004040 !important;
+	color: #00CCCC !important;
+}
+
+.spoiler blockquote:hover {
+	color:#009922 !important;
+}
+
+.spoiler blockquote blockquote:hover {
+	color:#006010 !important;
+}
+
+.spoiler blockquote blockquote blockquote:hover {
+	color:#004010 !important;
+}
+
