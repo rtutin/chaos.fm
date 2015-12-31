@@ -23,13 +23,13 @@ $posts = $postsRepository->findBy([], ['num'=>'desc'], 20);
 $feed = new \Zelenin\Feed;
 
 // $feed->addChannel();
-$feed->addChannel('http://chaos.fm/rss.xml');
+$feed->addChannel('http://chaos.fm/s/rss.xml');
 
 // required channel elements
 $feed
-    ->addChannelTitle('chaos.fm')
-    ->addChannelLink('http://chaos.fm')
-    ->addChannelDescription('chaos.fm feed');
+    ->addChannelTitle('chaos.fm/s')
+    ->addChannelLink('http://chaos.fm/s')
+    ->addChannelDescription('chaos.fm /s/ feed');
 
 foreach ($posts as $post) {
     $feed->addItem();

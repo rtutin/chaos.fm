@@ -1,79 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://chaos.fm/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://chaos.fm/b/rss.xml" rel="self" type="application/rss+xml"/>
     <generator>RSS Generator 2.1.1</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <title>chaos.fm</title>
-    <link>http://chaos.fm</link>
-    <description>chaos.fm feed</description>
+    <title>chaos.fm/b</title>
+    <link>http://chaos.fm/b</link>
+    <description>chaos.fm /b/ feed</description>
     <item>
-      <title>17</title>
-      <description>&lt;p&gt;rgvegv&lt;/p&gt;</description>
+      <title>70</title>
+      <description>&lt;p&gt;блядь. мимо треда промахнулся. он в бамплимите, однако, поэтом будем считать что пахуй&lt;/p&gt;&lt;p&gt;c: saw&lt;/p&gt;</description>
     </item>
     <item>
-      <title>16</title>
-      <description>&lt;p&gt;&lt;a href="/b/res/1.html#13" onclick="highlight(13)"&gt;&gt;&gt;13&lt;/a&gt;&lt;br /&gt;Оповестил я лишь пару человек.&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;Как с Тестором связывался, он же акк вмыльнике выпилил..?&lt;/blockquote&gt;&lt;p&gt;Джаббер же. &lt;/p&gt;</description>
+      <title>69</title>
+      <description>&lt;blockquote class="unkfunc"&gt;&gt;привет, братишка! как поживаешь?&lt;/blockquote&gt;&lt;p&gt;да вот, покушал немного, а так вообще уже получше чем раньше&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;нахуя ты в яму заехал?&lt;/blockquote&gt;&lt;p&gt;не помню, случайно. мы её потом руками достали&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;Это ОКА рядом с двумя людьми?&lt;/blockquote&gt;&lt;p&gt;ока тут есть, но кто же из нас троих не человек?&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;что ты и есть музыкант-плагинописец&lt;/blockquote&gt;&lt;p&gt;музыкальный инструмент держал в руках, бывало, так же написал парочку плагинов для pure data по сложности порядка hello world, причем сейчас бы повторить не смог. по сути рода деятельности у меня нет, точнее есть - лежать, мастурбировать и жаловаться на жизнь. последнее время всё больше лежать.&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;который фоллач с киберпункусами на вики спалил?&lt;/blockquote&gt;&lt;p&gt;разве я что-то такое делал?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>15</title>
-      <description>&lt;p&gt;.s/ запили.&lt;br /&gt;&lt;span class="spoiler"&gt;Именно скрытый.&lt;/span&gt;&lt;/p&gt;</description>
+      <title>68</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/55.html#64" onclick="highlight(64)"&gt;&gt;&gt;64&lt;/a&gt;&lt;br /&gt;Кого их?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>14</title>
-      <description>&lt;p&gt;Ну ты и мудак. На такую борду рулеточки постить. Еще и тирачевскую.&lt;/p&gt;</description>
+      <title>67</title>
+      <description>&lt;p&gt;Поздравляю с очередным последним днем года.&lt;br /&gt;&lt;strong&gt;некто, кто вопрошал о OpenBSD&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>13</title>
-      <description>&lt;blockquote class="unkfunc"&gt;&gt;диванон&lt;/blockquote&gt;&lt;p&gt;Ох и ах. Ты же и так всех (или только меня?) оповестил вкалтакте.&lt;br /&gt;Как с Тестором связывался, он же акк вмыльнике выпилил..?&lt;br /&gt;related picture is random.&lt;/p&gt;</description>
+      <title>66</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/1.html#62" onclick="highlight(62)"&gt;&gt;&gt;62&lt;/a&gt;&lt;br /&gt;Это ОКА рядом с двумя людьми?&lt;br /&gt;не расбираюсь в автомобилях, но если она, то намек, что ты и есть музыкант-плагинописец, который фоллач с киберпункусами на вики спалил? &lt;em&gt;не будем называть имен&lt;/em&gt; &lt;/p&gt;</description>
     </item>
     <item>
-      <title>12</title>
-      <description>&lt;p&gt;&lt;a href="/b/res/1.html#4" onclick="highlight(4)"&gt;&gt;&gt;4&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt; ему угрожали физической расправой&lt;/blockquote&gt;&lt;p&gt;Хаосач определенно успешен!&lt;br /&gt;А вообще оче благодарю. Такой-то предновогодний подарок!&lt;/p&gt;</description>
+      <title>65</title>
+      <description>&lt;p&gt;который ведет kostapc.&lt;br /&gt;а их несколько?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>11</title>
-      <description>&lt;p&gt;&lt;a href="/b/res/8.html#10" onclick="highlight(10)"&gt;&gt;&gt;10&lt;/a&gt;&lt;br /&gt;Хорошо. Реролл.&lt;/p&gt;</description>
+      <title>64</title>
+      <description>&lt;p&gt;а один ебнутый нульчер из IRC как-то всерьез надумал их ожмурить. алсо, скайпоблядки не нужны.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>10</title>
-      <description>&lt;p&gt;&lt;a href="/b/res/8.html#9" onclick="highlight(9)"&gt;&gt;&gt;9&lt;/a&gt;&lt;br /&gt;А конкретней?&lt;/p&gt;</description>
+      <title>63</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/1.html#62" onclick="highlight(62)"&gt;&gt;&gt;62&lt;/a&gt;&lt;br /&gt;привет, братишка! как поживаешь?&lt;br /&gt;&lt;span class="spoiler"&gt;нахуя ты в яму заехал?&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>9</title>
-      <description>&lt;p&gt;Взлетит-ли Chaos.fm?&lt;/p&gt;</description>
+      <title>62</title>
+      <description>&lt;p&gt;о, круто. теперь хаосач ненужно админить. мне всё нравиться. пруфы надо?&lt;/p&gt;&lt;p&gt;и что, кстати, за гон насчет логов джаббера? не может такого быть. а впрочем похуй. идеальных конфигураций не бывает.&lt;/p&gt;&lt;p&gt;а еще теперь ненадо за домен платить эти конские деньги&lt;/p&gt;&lt;p&gt;короче всё супер&lt;/p&gt;</description>
     </item>
     <item>
-      <title>8</title>
-      <description/>
+      <title>61</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/29.html#52" onclick="highlight(52)"&gt;&gt;&gt;52&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;rss&lt;/blockquote&gt;&lt;p&gt;олдфажностью повеяло&lt;/p&gt;</description>
     </item>
     <item>
-      <title>7</title>
-      <description>&lt;p&gt;Запилил RSS. Такие дела. А также выкинул все на гитхаб&lt;span class="spoiler"&gt;диванон&lt;/span&gt;.&lt;br /&gt;&lt;a href="http://chaos.fm/b/rss.xml" rel="nofollow"&gt;http://chaos.fm/b/rss.xml&lt;/a&gt;&lt;br /&gt;&lt;a href="https://github.com/rtutin/chaos.fm" rel="nofollow"&gt;https://github.com/rtutin/chaos.fm&lt;/a&gt;&lt;/p&gt;</description>
+      <title>60</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/1.html#48" onclick="highlight(48)"&gt;&gt;&gt;48&lt;/a&gt;&lt;br /&gt;что за блог?&lt;/p&gt;&lt;p&gt;&lt;a href="/b/res/1.html#57" onclick="highlight(57)"&gt;&gt;&gt;57&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;бла-бла&lt;/blockquote&gt;&lt;p&gt;в общем джаву учи ^_^&lt;/p&gt;</description>
     </item>
     <item>
-      <title>6</title>
-      <description>&lt;p&gt;&lt;a href="/b/res/1.html#3" onclick="highlight(3)"&gt;&gt;&gt;3&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;На чем хостинг?&lt;/blockquote&gt;&lt;p&gt;Забыл сказать. Хостится все это дело впске за 150 рублей на OVH. Такие дела&lt;/p&gt;</description>
+      <title>59</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/29.html#54" onclick="highlight(54)"&gt;&gt;&gt;54&lt;/a&gt;&lt;br /&gt;вакаба жи&lt;/p&gt;</description>
     </item>
     <item>
-      <title>5</title>
-      <description>&lt;p&gt;&lt;a href="/b/res/1.html#3" onclick="highlight(3)"&gt;&gt;&gt;3&lt;/a&gt;&lt;br /&gt;опять ты шизик ебучий&lt;/p&gt;</description>
+      <title>58</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/55.html" onclick="highlight(55)"&gt;&gt;&gt;55&lt;/a&gt;&lt;br /&gt;могу сасак плзвать. ннннадо?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>4</title>
-      <description>&lt;p&gt;&lt;a href="/b/res/1.html#3" onclick="highlight(3)"&gt;&gt;&gt;3&lt;/a&gt;&lt;br /&gt;Извини, но нет. Это не Тестор. Где он, мне самому интересно. &lt;/p&gt;&lt;p&gt;Когда я его последний раз спрашивал за хаосач, он мне сказал что его запиливать обратно не будет, т.к. ему угрожали физической расправой. Не знаю, может он там совсем поехал или марок переел. &lt;/p&gt;&lt;p&gt;Кароч пущай теперь мне угрожают&lt;/p&gt;</description>
+      <title>57</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/1.html#46" onclick="highlight(46)"&gt;&gt;&gt;46&lt;/a&gt;&lt;br /&gt;учи многопоточность, распределенность, биг-дату, хайлоад, балансировку, асинхронность, паралельность, генетические алгоритмы, машинное обучение, распознавание образов, семантические алгоритмы.&lt;br /&gt;В байтах копаться сейчас дело неблагодарное.&lt;/p&gt;&lt;p&gt;конкретные языки и технологии приходят и уходят, надо понимать картину в целом.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>3</title>
-      <description>&lt;p&gt;Doomguy voice: haHA! Я знал, что ты жив и не использовал гелий. Слишком крут, что бы делать глупости.&lt;br /&gt;Надеюсь, отдых IRL понравился и хватило времени обдумать разные препятсвия.&lt;br /&gt;Благодарствую за советы.&lt;br /&gt;&lt;em&gt;Некто, кто вопрошал о OpenBSD&lt;/em&gt;&lt;/p&gt;&lt;p&gt;На чем хостинг?&lt;/p&gt;</description>
+      <title>56</title>
+      <description>&lt;p&gt;Светлое будущее и кибурупанку.&lt;br /&gt;null. data acces restricted.&lt;br /&gt;a lot of.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2</title>
-      <description>&lt;p&gt;Ну а вообще, как дела?&lt;/p&gt;</description>
+      <title>55</title>
+      <description>&lt;p&gt;Что будет дальше?&lt;br /&gt;Переодичность вайпов?&lt;br /&gt;Фиачи?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1</title>
-      <description>&lt;p&gt;Welcome home.&lt;/p&gt;</description>
+      <title>54</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/29.html#53" onclick="highlight(53)"&gt;&gt;&gt;53&lt;/a&gt;&lt;br /&gt;Спойлеры реализованы канонiчно, октоторпами?&lt;br /&gt;&lt;span class="spoiler"&gt;Ты-дым.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>53</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/29.html#51" onclick="highlight(51)"&gt;&gt;&gt;51&lt;/a&gt;&lt;br /&gt;Дичайше хаосчую хттпс.&lt;br /&gt;&lt;a href="/b/res/29.html#52" onclick="highlight(52)"&gt;&gt;&gt;52&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt; Валяюсь с температурой, болящей головой и смотрю Технолайз.&lt;/blockquote&gt;&lt;p&gt;Эх, не бережешь ты свою голову! %%Хотя, конечно, дело настроения.%%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>52</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/29.html#51" onclick="highlight(51)"&gt;&gt;&gt;51&lt;/a&gt;&lt;br /&gt;Да, я думал о редиректе. Вообще думал сегодня немного допилить свою laraboard, но приболел чуток. Валяюсь с температурой, болящей головой и смотрю Технолайз. &lt;/p&gt;&lt;p&gt;За тачку не садился почти, только rss чекнуть и закинуть на флешку анимца&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>51</title>
+      <description>&lt;p&gt;&lt;a href="/b/res/29.html#50" onclick="highlight(50)"&gt;&gt;&gt;50&lt;/a&gt;&lt;br /&gt;таки может тогда сразу с http редирект на https?&lt;br /&gt;или вообще два разных чаоса&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
