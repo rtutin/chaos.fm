@@ -1618,7 +1618,7 @@ sub get_page_count(;$)
 sub get_filetypes()
 {
 	my %filetypes=FILETYPES;
-	$filetypes{gif}=$filetypes{jpg}=$filetypes{png}=1;
+	$filetypes{gif}=$filetypes{jpg}=$filetypes{png}=$filetypes{mp3}=1;
 	return join ", ",map { uc } sort keys %filetypes;
 }
 
