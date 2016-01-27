@@ -8,6 +8,62 @@
     <link>http://chaos.fm/s</link>
     <description>chaos.fm /s/ feed</description>
     <item>
+      <title>30</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/1.html#16" onclick="highlight(16)"&gt;&gt;&gt;16&lt;/a&gt;&lt;br /&gt;no.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>29</title>
+      <description>&lt;p&gt;&lt;&gt;27&lt;br /&gt;ДА, ХОЧУ!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>28</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/5.html#27" onclick="highlight(27)"&gt;&gt;&gt;27&lt;/a&gt;&lt;br /&gt;Давай. А вообще было бы неплохо чекер номеров написать. Ток я не знаю как&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>27</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/5.html#25" onclick="highlight(25)"&gt;&gt;&gt;25&lt;/a&gt;&lt;br /&gt;Хочешь дам тулзу для поиска профиля вк по номеру телефона или мылу?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>26</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/5.html#25" onclick="highlight(25)"&gt;&gt;&gt;25&lt;/a&gt;&lt;br /&gt;нет, ты!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>25</title>
+      <description>&lt;p&gt;ну запости интересное без трояна. ну запости.&lt;br /&gt;да, ты, именно ты, кто читает этот текст. дай что-то интересное.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>24</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html#18" onclick="highlight(18)"&gt;&gt;&gt;18&lt;/a&gt;&lt;br /&gt;Да, SPA хочется намутить. А насчет легковесности, то ты сможешь и json голый читать, например.  Максимум легковесно.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>23</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html#21" onclick="highlight(21)"&gt;&gt;&gt;21&lt;/a&gt;&lt;br /&gt;javascript, java&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>22</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html#19" onclick="highlight(19)"&gt;&gt;&gt;19&lt;/a&gt;&lt;br /&gt;проглядел, да.&lt;br /&gt;Laravel. &lt;br /&gt;Спасибо, ознакомлюсь.&lt;/p&gt;&lt;p&gt;PHP в итоге.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>21</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html#20" onclick="highlight(20)"&gt;&gt;&gt;20&lt;/a&gt;&lt;br /&gt;а какой(ие) яп сейчас знаешь?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>20</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html#17" onclick="highlight(17)"&gt;&gt;&gt;17&lt;/a&gt;&lt;br /&gt;давно хочу написать свою борду на скале. ну и язык подучить.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>19</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html#18" onclick="highlight(18)"&gt;&gt;&gt;18&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;а на чем планируешь бэкэнд писать?&lt;/blockquote&gt;&lt;p&gt;давай не будем ебаться в глаза&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;Стек - ларавел&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>18</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html#17" onclick="highlight(17)"&gt;&gt;&gt;17&lt;/a&gt;&lt;br /&gt;а на чем планируешь бэкэнд писать?&lt;br /&gt;и имхо бутсрап с ангуляром избыточен для такого функционала. &lt;br /&gt;жквери более чем хватит.&lt;br /&gt;или планируется прям "single page application"?&lt;/p&gt;&lt;p&gt;мне кажется борда должна быть минималистична и легковесна, чтобы на любом калькуляторе не напрягала.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>17</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html" onclick="highlight(12)"&gt;&gt;&gt;12&lt;/a&gt;&lt;br /&gt;Если у тебя есть мысли по апгрейду борды - в issues.&lt;/p&gt;&lt;p&gt;Ну или прямо в этот тред. Я по рсс все-равно увижу. &lt;/p&gt;&lt;p&gt;Вообще у меня мысли такие:&lt;br /&gt;Стек - ларавел, бутстрап, ангуляр. Запилить альтернативный хаосач. То есть работать оно будет с базой вакабы, но бэкенд и фронтенд будут  написаны с нуля. Потом можно как-нибудь по-тихоньку уходить от старой бд, а когда уже не останется никого, кто будет юзать вакабу - дропнуть обратную совместимость с ней. &lt;/p&gt;&lt;p&gt;На все про все, месяц делов, если по часу-два в день, без напряга. Ну а дальше допиливание до чего-то стоящего, по сравнению с современными движками. &lt;span class="spoiler"&gt;я про всякого рода скрытия тредов, избранного, и всякой такой мочи&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>16</title>
       <description>&lt;p&gt;&lt;a href="/s/res/1.html#3" onclick="highlight(3)"&gt;&gt;&gt;3&lt;/a&gt;&lt;br /&gt;грязная шлюшка&lt;br /&gt;давай отсоси мне&lt;/p&gt;</description>
     </item>
@@ -30,46 +86,6 @@
     <item>
       <title>11</title>
       <description>&lt;p&gt;☑ &lt;br /&gt;от одного:&lt;br /&gt;&lt;a href="http://spth.virii.lu/inception1/" rel="nofollow"&gt;http://spth.virii.lu/inception1/&lt;/a&gt;&lt;br /&gt;от другого:&lt;br /&gt;&lt;a href="http://programming-motherfucker.com/become.html" rel="nofollow"&gt;http://programming-motherfucker.com/become.html&lt;/a&gt;&lt;br /&gt;сам обнаружил:&lt;br /&gt;&lt;a href="http://www.catb.org/~esr/faqs/" rel="nofollow"&gt;http://www.catb.org/~esr/faqs/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>10</title>
-      <description>&lt;p&gt;да так, один человек, который рано намекнул мне всякие штуки из абстрактной чести.&lt;/p&gt;&lt;p&gt;"я думал, что ты подумал". конфронтации и не было.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>9</title>
-      <description>&lt;p&gt;&lt;a href="/s/res/1.html#8" onclick="highlight(8)"&gt;&gt;&gt;8&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;нужные сосачки &lt;/blockquote&gt;&lt;p&gt;это кто?&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;конфронтации с идейностью и нульчетрадициями.&lt;/blockquote&gt;&lt;p&gt;вроде не было такого&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>8</title>
-      <description>&lt;p&gt;&lt;span class="spoiler"&gt;магея? я ж ни лох. бгггг&lt;/span&gt;&lt;br /&gt;&lt;span class="spoiler"&gt;нужные сосачки вовремя отпочковались и молчали еще с момента конфронтации с идейностью и нульчетрадициями.&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7</title>
-      <description>&lt;p&gt;знаю про %%&lt;span class="spoiler"&gt;%%&lt;/span&gt;&lt;br /&gt;и никогда, ниразу не мочатник.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>6</title>
-      <description>&lt;p&gt;&lt;a href="/s/res/1.html#4" onclick="highlight(4)"&gt;&gt;&gt;4&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;%%&lt;/blockquote&gt;&lt;p&gt;харкачеанон пожаловал. магею хаоса практикуешь?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>5</title>
-      <description>&lt;p&gt;разной степени интересности, полезности.&lt;br /&gt;как линки на сайты, так и на обменники с файлами.&lt;br /&gt;прэфэред: sendspace.com&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>4</title>
-      <description>&lt;p&gt;На шамах хаоса должны быть скрытые слои пространства.&lt;/p&gt;&lt;p&gt;%%Нивкоемразе не глупый околонетшталкерский форс, придумал вдохновляясь хаосом. Не вархаммеровским.%%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>3</title>
-      <description>&lt;p&gt;&lt;a href="/s/res/1.html#2" onclick="highlight(2)"&gt;&gt;&gt;2&lt;/a&gt;&lt;br /&gt;Не знаю. Так анон попросил. &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2</title>
-      <description>&lt;p&gt;зачем скрыто? в чем цель?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1</title>
-      <description>&lt;p&gt;Welcome to /.s/&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
