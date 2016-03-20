@@ -8,34 +8,6 @@
     <link>http://chaos.fm/s</link>
     <description>chaos.fm /s/ feed</description>
     <item>
-      <title>37</title>
-      <description>&lt;p&gt;ну и где тулза? эх.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>36</title>
-      <description>&lt;p&gt;я нуб, но не ламер. а ты обиженный жизнью мудак, сочащийся ненавистью.&lt;br /&gt;&lt;span class="spoiler"&gt;но спасибо.&lt;/span&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>35</title>
-      <description>&lt;p&gt;&lt;a href="/s/res/12.html#33" onclick="highlight(33)"&gt;&gt;&gt;33&lt;/a&gt;&lt;br /&gt;ну ты пиздец быдло, очевидный base64 очевиден.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>34</title>
-      <description>&lt;p&gt;&lt;a href="/s/res/12.html#32" onclick="highlight(32)"&gt;&gt;&gt;32&lt;/a&gt;&lt;br /&gt;Хм, а я тут тред по камерам создавал, в архиве его нет. Потёрли?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>33</title>
-      <description>&lt;p&gt;&lt;a href="/s/res/12.html#32" onclick="highlight(32)"&gt;&gt;&gt;32&lt;/a&gt; и вот это "дохуя" раздражает. Общаются тут - пусть палят шифровалку.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>32</title>
-      <description>&lt;p&gt;&lt;a href="/s/res/12.html#31" onclick="highlight(31)"&gt;&gt;&gt;31&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;Ртутин, где третья страница, что произошло с кешем?&lt;/blockquote&gt;&lt;p&gt;Треды стали сваливаться в архив&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;где тред, в котором пересчитались (там еще Raider пикчу ASCII артом релейтил)?&lt;/blockquote&gt;&lt;p&gt;&lt;a href="https://chaos.fm/b/arch/res/" rel="nofollow"&gt;https://chaos.fm/b/arch/res/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Глянь тут&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;Каков лимит?&lt;/blockquote&gt;&lt;p&gt;Был дефолтный, не раскоментил 2 строки конфига. Теперь лимита нет&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt; все эти подробности было бы полезно описать в каком-то список.&lt;/blockquote&gt;&lt;p&gt;Могу в ридми на гитхабе. Тащемта ты мог сам почитать конфиг на том же гитабе, например&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;Прогони нетшкольников с их криптованием, я их не понимаю.&lt;/blockquote&gt;&lt;p&gt;Как я их прогоню? Напомню что я даже айпишников не вижу, к тому же по айпи банить на борде - это же полная хуйня, сейчас любой даун может надеть прокси.&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt;с ними хаос превратится в brokenh0les.&lt;/blockquote&gt;&lt;p&gt;Игнорируй. Вот мне на них похуй, например. Хотя конечно не похуй, чет их дохуя стало. &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>31</title>
-      <description>&lt;p&gt;Ртутин, где третья страница, что произошло с кешем?&lt;br /&gt;где тред, в котором пересчитались (там еще Raider пикчу ASCII артом релейтил)?&lt;br /&gt;Каков лимит?&lt;br /&gt;все эти подробности было бы полезно описать в каком-то список.&lt;br /&gt;Прогони нетшкольников с их криптованием, я их не понимаю.&lt;br /&gt;с ними хаос превратится в brokenh0les.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>30</title>
       <description>&lt;p&gt;&lt;a href="/s/res/1.html#16" onclick="highlight(16)"&gt;&gt;&gt;16&lt;/a&gt;&lt;br /&gt;no.&lt;/p&gt;</description>
     </item>
@@ -86,6 +58,34 @@
     <item>
       <title>18</title>
       <description>&lt;p&gt;&lt;a href="/s/res/12.html#17" onclick="highlight(17)"&gt;&gt;&gt;17&lt;/a&gt;&lt;br /&gt;а на чем планируешь бэкэнд писать?&lt;br /&gt;и имхо бутсрап с ангуляром избыточен для такого функционала. &lt;br /&gt;жквери более чем хватит.&lt;br /&gt;или планируется прям "single page application"?&lt;/p&gt;&lt;p&gt;мне кажется борда должна быть минималистична и легковесна, чтобы на любом калькуляторе не напрягала.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>17</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html" onclick="highlight(12)"&gt;&gt;&gt;12&lt;/a&gt;&lt;br /&gt;Если у тебя есть мысли по апгрейду борды - в issues.&lt;/p&gt;&lt;p&gt;Ну или прямо в этот тред. Я по рсс все-равно увижу. &lt;/p&gt;&lt;p&gt;Вообще у меня мысли такие:&lt;br /&gt;Стек - ларавел, бутстрап, ангуляр. Запилить альтернативный хаосач. То есть работать оно будет с базой вакабы, но бэкенд и фронтенд будут  написаны с нуля. Потом можно как-нибудь по-тихоньку уходить от старой бд, а когда уже не останется никого, кто будет юзать вакабу - дропнуть обратную совместимость с ней. &lt;/p&gt;&lt;p&gt;На все про все, месяц делов, если по часу-два в день, без напряга. Ну а дальше допиливание до чего-то стоящего, по сравнению с современными движками. &lt;span class="spoiler"&gt;я про всякого рода скрытия тредов, избранного, и всякой такой мочи&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>16</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/1.html#3" onclick="highlight(3)"&gt;&gt;&gt;3&lt;/a&gt;&lt;br /&gt;грязная шлюшка&lt;br /&gt;давай отсоси мне&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>15</title>
+      <description>&lt;blockquote class="unkfunc"&gt;&gt;Тоже надо быть социопатом реальне чтобы на хаскеле имиджборду писать, но не в этом суть.&lt;/blockquote&gt;&lt;p&gt;Кстати, нужно Кудаха поздравить с "как НГ встретишь, так его и проебешь".&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>14</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/1.html#10" onclick="highlight(10)"&gt;&gt;&gt;10&lt;/a&gt;&lt;br /&gt;загадками ебашишь&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>13</title>
+      <description>&lt;p&gt;&lt;a href="/s/res/12.html" onclick="highlight(12)"&gt;&gt;&gt;12&lt;/a&gt;&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt; монга былабы самый сок.&lt;/blockquote&gt;&lt;p&gt;чем? не вижу преимуществ.&lt;/p&gt;&lt;blockquote class="unkfunc"&gt;&gt; на хаскеле имиджборду писать&lt;/blockquote&gt;&lt;p&gt;что не так? там ж есть вебфреймворки. хорошая задачка для студента при изучении хаскеля.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>12</title>
+      <description>&lt;p&gt;про устройство имиджборды тред&lt;/p&gt;&lt;p&gt;поглазел в кошкоспрутник, а там... файл .sqlite&lt;br /&gt;и по папке на каждый раздел. Вот не думал. Оно действительно ТАК работает? Так понимаю что двигло это очень кондовое. Так почему при смене рея не сменить и двигло заодно? Их-же тысячи, и большинство походу лучше чем это. Кроме одного - непривычно для заядлых дващуров. Но когда это девелоперы не срали с колокольни на привычки "юзверей"?&lt;/p&gt;&lt;p&gt;Почему не на другом движке? Ну там на монаде, лол.&lt;br /&gt;Тоже надо быть социопатом реальне чтобы на хаскеле имиджборду писать, но не в этом суть.&lt;/p&gt;&lt;p&gt;Надоже аяксы, интерактивности разные, бд попрочнее.&lt;br /&gt;какаянить монга былабы самый сок.&lt;/p&gt;&lt;p&gt;Вообщем реквестирую дискус.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>11</title>
+      <description>&lt;p&gt;☑ &lt;br /&gt;от одного:&lt;br /&gt;&lt;a href="http://spth.virii.lu/inception1/" rel="nofollow"&gt;http://spth.virii.lu/inception1/&lt;/a&gt;&lt;br /&gt;от другого:&lt;br /&gt;&lt;a href="http://programming-motherfucker.com/become.html" rel="nofollow"&gt;http://programming-motherfucker.com/become.html&lt;/a&gt;&lt;br /&gt;сам обнаружил:&lt;br /&gt;&lt;a href="http://www.catb.org/~esr/faqs/" rel="nofollow"&gt;http://www.catb.org/~esr/faqs/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
